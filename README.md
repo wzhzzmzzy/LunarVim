@@ -14,6 +14,13 @@ Neovide + macOS + LunarVim, and you will get awesome fluent development experien
 - macOS
 - Neovide
 
+## Usage
+
+```sh
+cd ~/.config
+git clone https://github.com/wzhzzmzzy/nvim.git lvim
+```
+
 ## Feature
 
 ### Neovide & MacOS Key mappings
@@ -27,7 +34,8 @@ Neovide + macOS + LunarVim, and you will get awesome fluent development experien
 - `Command + {`: `<cmd>b#<cr>`(previous buffer, use commonly used shortcut key for switching to previous tab in macos)
 - `Command + }`: `<cmd>bnext<cr>`(next buffer)
 - `Command + w`: `<cmd>BufferKill<cr>`(kill current buffer)
-... and more
+
+...and more
 
 ### Support Framework & Languages
 
@@ -64,5 +72,6 @@ alias lvim-vue2="set -x LVIM_VETUR_ENABLE 1 && lvim"
 
 - [catppuccin](https://github.com/catppuccin/nvim)(as default colorscheme)
 - [flatten.nvim](https://github.com/willothy/flatten.nvim)
-...
+
+...and more
 
