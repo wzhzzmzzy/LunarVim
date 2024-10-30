@@ -1,3 +1,3 @@
 reload("universal.init")
-reload("universal.key-mapping")
+reload("universal.key-mappings")
 reload("plugins.init")

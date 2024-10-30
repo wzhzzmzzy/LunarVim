@@ -22,9 +22,7 @@ formatters.setup {
 }
 
 local linters = require "lvim.lsp.null-ls.linters"
-linters.setup {
-}
+linters.setup {}
 
 local code_actions = require "lvim.lsp.null-ls.code_actions"
-code_actions.setup {
-}
+code_actions.setup {}

@@ -1,2 +1,2 @@
-lvim.colorscheme = "catppuccin-mocha" 
+lvim.colorscheme = "catppuccin-mocha"
 vim.wo.relativenumber = true
