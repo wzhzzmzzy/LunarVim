@@ -2,7 +2,10 @@ lvim.plugins = {
   -- require("plugins.user.hop"),
   require("plugins.user.leap"),
   require("plugins.user.numb"),
-  require("plugins.user.minimap"),
+
+  -- FIXME: MINIMAP HAS TOO MANY BUGS
+  -- require("plugins.user.minimap"),
+
   require("plugins.user.numb"),
   require("plugins.user.todo-comments"),
   require("plugins.user.nvim-bqf"),
