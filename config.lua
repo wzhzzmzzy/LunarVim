@@ -1,3 +1,6 @@
 reload("universal.init")
-reload("universal.key-mappings")
 reload("plugins.init")
+
+if vim.g.neovide then
+  reload("universal.neovide")
+end
