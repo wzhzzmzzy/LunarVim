@@ -18,7 +18,7 @@ Neovide + macOS + LunarVim, and you will get awesome fluent development experien
 
 ```sh
 cd ~/.config
-git clone https://github.com/wzhzzmzzy/nvim.git lvim
+git clone https://github.com/wzhzzmzzy/LunarVim.git lvim
 ```
 
 ## Feature
